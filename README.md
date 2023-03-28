@@ -1,3 +1,4 @@
 # Python_server_to_Arduino
-# Arduino Control via python http.server
+## Python http.server
 
+## Arduino setup
